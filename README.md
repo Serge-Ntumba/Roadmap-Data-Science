@@ -8,6 +8,8 @@
 
 ### Books
 
-|   Tittle   |     Author      |     Status      |
-| :--------: | :-------------: | :-------------: |
-| Data Smart | John W. Foreman | **In progress** |
+|                                 Tittle                                 |      Author      |     Status      |
+| :--------------------------------------------------------------------: | :--------------: | :-------------: |
+|                               Data Smart                               | John W. Foreman  | **In progress** |
+| The Signal and the Noise: Why So Many Predictions Fail--But Some Don't |   Nate Silver    | **In progress** |
+|                               Dataclysm                                | Christian Rudder | **In progress** |
