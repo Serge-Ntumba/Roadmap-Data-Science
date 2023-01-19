@@ -8,16 +8,16 @@
 
 ### Books
 
-|                                 Tittle                                 |      Author      |    Status      |
-| :--------------------------------------------------------------------: | :--------------: | :-------------: |
-|                               Data Smart                               | John W. Foreman  | **In progress** |
+|          Tittle          |      Author      |     Status      |
+| :----------------------: | :--------------: | :-------------: |
+|        Data Smart        | John W. Foreman  | **In progress** |
 | The Signal and the Noise |   Nate Silver    | **In progress** |
-|                               Dataclysm                                | Christian Rudder | **In progress** |
+|        Dataclysm         | Christian Rudder | **In progress** |
 
 ## Mathematics for Data Science
 
 ### Basic school math
-| Video Courses | Books | Articles |
-|:-------------:| :---: |:-------: |
-| | [Mather.Pro](https://mathter.pro/pesochnica/index.html) | 
-| [Видеокурсы DA VINCI](https://www.youtube.com/@da_vinci_center/playlists) |
+
+|                               Video Courses                               |                          Books                          | Articles |
+| :-----------------------------------------------------------------------: | :-----------------------------------------------------: | :------: |
+| [Видеокурсы DA VINCI](https://www.youtube.com/@da_vinci_center/playlists) | [Mather.Pro](https://mathter.pro/pesochnica/index.html) |
