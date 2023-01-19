@@ -13,3 +13,10 @@
 |                               Data Smart                               | John W. Foreman  | **In progress** |
 | The Signal and the Noise |   Nate Silver    | **In progress** |
 |                               Dataclysm                                | Christian Rudder | **In progress** |
+
+## Mathematics for Data Science
+
+### Basic school math
+
+| [Mather.Pro](https://mathter.pro/pesochnica/index.html) | 
+| [Видеокурсы DA VINCI](https://www.youtube.com/@da_vinci_center/playlists) |
