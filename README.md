@@ -67,8 +67,8 @@
 ### Articles
 
 |                                               Title                                                |      Author      |     Status      |
-| :------------------------------------------------------------------------------------------------: | :--------------: | :-------------: | --- |
-| [An Intuitive Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/) | Better Explained | **In progress** |     |
+| :------------------------------------------------------------------------------------------------: | :--------------: | :-------------: | 
+| [An Intuitive Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/) | Better Explained | **In progress** | 
 
 ## Statistics and Probability
 
