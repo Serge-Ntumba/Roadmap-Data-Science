@@ -16,10 +16,10 @@
 
 ### Courses
 
-|                                                                  URL                                                                  | Title                                          |  Status   |
-| :-----------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------- | :-------: |
-|                                        [Youtube](https://www.youtube.com/watch?v=iPdO9MwdcLE)                                         | What professional Data Scientist Actually do ? | **To Do** |
-| [Udacity](https://www.udacity.com/course/intro-to-data-science--ud359?source=post_page---------------------------&ref=hackernoon.com) | Intro to Data Science                          | **To do** |
+|                                                                  URL                                                                  | Title                                                           |  Status   |
+| :-----------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------- | :-------: |
+|                                        [Youtube](https://www.youtube.com/watch?v=iPdO9MwdcLE)                                         | What professional Data Scientist Actually do ?                  | **To Do** |
+| [Udacity](https://www.udacity.com/course/intro-to-data-science--ud359?source=post_page---------------------------&ref=hackernoon.com) | Intro to Data Science: What It Takes to Become a Data Scientist | **To do** |
 
 ## ● Mathematics for Data Science
 
