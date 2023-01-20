@@ -8,18 +8,18 @@
 
 ### Books
 
-|          Tittle          |      Author      |  Status   |
-| :----------------------: | :--------------: | :-------: |
-|        Data Smart        | John W. Foreman  | **To do** |
-| The Signal and the Noise |   Nate Silver    | **To do** |
-|        Dataclysm         | Christian Rudder | **To do** |
+|                                              Tittle                                              |      Author      |  Status   |
+| :----------------------------------------------------------------------------------------------: | :--------------: | :-------: |
+|               Data Smart: Using Data Science to Transform Information into Insight               | John W. Foreman  | **To do** |
+|              The Signal and the Noise:: Why So Many Predictions Fail but Some Don't              |   Nate Silver    | **To do** |
+| Dataclysm: Love, Sex, Race, and Identity--What Our Online Lives Tell Us about Our Offline Selves | Christian Rudder | **To do** |
 
 ### Courses
 
-|                                                                  URL                                                                  | Title                 |  Status   |
-| :-----------------------------------------------------------------------------------------------------------------------------------: | --------------------- | :-------: |
-|[Youtube](https://www.youtube.com/watch?v=iPdO9MwdcLE) | What professional Data Scientist Actually do ? | **To Do** | 
-| [Udacity](https://www.udacity.com/course/intro-to-data-science--ud359?source=post_page---------------------------&ref=hackernoon.com) | Intro to Data Science | **To do** |
+|                                                                  URL                                                                  | Title                                          |  Status   |
+| :-----------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------- | :-------: |
+|                                        [Youtube](https://www.youtube.com/watch?v=iPdO9MwdcLE)                                         | What professional Data Scientist Actually do ? | **To Do** |
+| [Udacity](https://www.udacity.com/course/intro-to-data-science--ud359?source=post_page---------------------------&ref=hackernoon.com) | Intro to Data Science                          | **To do** |
 
 ## ● Mathematics for Data Science
 
