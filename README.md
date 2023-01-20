@@ -131,5 +131,11 @@
 
 ## ● Interview questions Preparation
 
-| Video | Books | Articles | Author | Subject |
-| :---: | :---: | :------: | :----: | ------- |
+| Video | Books |                                                                              Articles                                                                              | Author | Subject |
+| :---: | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :-----: |
+|   v   |   b   |                             [17 Linear Algebra Interview Questions](https://www.mlstack.cafe/blog/linear-algebra-interview-questions)                              |   a    |    s    |
+|   v   |   b   |    [50+ Statistics Interview Questions](https://towardsdatascience.com/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271)    |   a    |    s    |
+|   v   |   b   |                               [120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)                               |   a    |    s    |
+|   v   |   b   | [14 Probability problems for acing Data Science interviews](https://towardsdatascience.com/14-probability-problems-for-acing-data-science-interviews-3735025a6425) |   a    |    s    |
+|   v   |   b   |                                                                                 a                                                                                  |   a    |    s    |
+|   v   |   b   |                                                                                 a                                                                                  |   a    |    s    |
