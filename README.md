@@ -18,6 +18,7 @@
 
 |                                                                  URL                                                                  | Title                 |  Status   |
 | :-----------------------------------------------------------------------------------------------------------------------------------: | --------------------- | :-------: |
+|[Youtube](https://www.youtube.com/watch?v=iPdO9MwdcLE) | What professional Data Scientist Actually do ? | **To Do** | 
 | [Udacity](https://www.udacity.com/course/intro-to-data-science--ud359?source=post_page---------------------------&ref=hackernoon.com) | Intro to Data Science | **To do** |
 
 ## ● Mathematics for Data Science
