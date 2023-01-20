@@ -87,18 +87,6 @@
 |     [Modern Mathematical Statistics with Application](https://www.amazon.com/Modern-Mathematical-Statistics-Applications-Springer/dp/1461403901)     | Jay L. Devore, Kenneth N. Berk, Matthew A. Carlton | **To Do** |
 |                       [Теория вероятностей и математическая статистика](http://univer.nuczu.edu.ua/tmp_metod/142/Gmurman.pdf)                        |                    Гмурман В.Е.                    | **To Do** |
 
-### Books
-
-|                                                                        Title                                                                         |     Author      |  Status   |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :-------: | --- | ----------------------------------------------------------------------------------------------------- | -------------------- | --------- |
-|                                                                   Naked Statistics                                                                   | Charles Wheelan | **To do** |
-|                                          [Think Stat](https://greenteapress.com/thinkstats/thinkstats.pdf)                                           | Allen B. Downey | **To do** |
-| [Statistics in a Nutshell](https://bookshop.org/p/books/statistics-in-a-nutshell-a-desktop-quick-reference-sarah-boslaugh/7850307?ean=9781449316822) | Sarah Boslaugh  | **To do** |     | [Introduction to Probability](https://drive.google.com/file/d/15Y0oFNHQRls1qvQNvO3DFLJVhIZvUjTD/view) | Joseph K. Blitzstein | **To do** |
-
-| [Modern Mathematical Statistics with Application](https://www.amazon.com/Modern-Mathematical-Statistics-Applications-Springer/dp/1461403901) | Jay L. Devore, Kenneth N. Berk, Matthew A. Carlton | **To Do** |
-
-| [Теория вероятностей и математическая статистика](http://univer.nuczu.edu.ua/tmp_metod/142/Gmurman.pdf) | Гмурман В.Е. | **To Do** |
-
 ### Courses
 
 |                                         URL                                         |            Title            |  Status   |
