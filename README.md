@@ -4,9 +4,9 @@
 <img src="https://cdn.searchenginejournal.com/wp-content/uploads/2019/12/when-to-use-data-science-in-seo-5def8e5b1c22c-1520x800.webp" width="600">
 </p>
 
-## Overview of Data Science
+## ● Overview of Data Science 
 
-### Books
+### Books 
 
 |          Tittle          |      Author      |  Status   |
 | :----------------------: | :--------------: | :-------: |
@@ -20,13 +20,13 @@
 | :-----------------------------------------------------------------------------------------------------------------------------------: | --------------------- | :-------: |
 | [Udacity](https://www.udacity.com/course/intro-to-data-science--ud359?source=post_page---------------------------&ref=hackernoon.com) | Intro to Data Science | **To do** |
 
-## Mathematics for Data Science
+## ● Mathematics for Data Science
 
 ### Basic school math
 
-|                               Video Courses                               |                          Books                          | Articles |
-| :-----------------------------------------------------------------------: | :-----------------------------------------------------: | :------: |
-| [Видеокурсы DA VINCI](https://www.youtube.com/@da_vinci_center/playlists) | [Mather.Pro](https://mathter.pro/pesochnica/index.html) |
+|                               Video Courses                               |                          Books                          | Articles  |
+| :-----------------------------------------------------------------------: | :-----------------------------------------------------: | :-------: |
+| [Видеокурсы DA VINCI](https://www.youtube.com/@da_vinci_center/playlists) | [Mather.Pro](https://mathter.pro/pesochnica/index.html) | 
 
 ### Mathematics in DS
 
@@ -37,9 +37,9 @@
 
 #### Courses
 
-|                                                                                                                       URL                                                                                                                        | Title                    |  Status   |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------ | :-------: |
-|                                                                                         [Coursers](https://www.coursera.org/learn/datasciencemathskills)                                                                                         | Data Science Math Skills | **To do** |
+|                                                                                                                       URL                                                                                                                        | Title                    | Status |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------ | :----: |
+|                                                                                         [Coursers](https://www.coursera.org/learn/datasciencemathskills)                                                                                         | Data Science Math Skills | **To do**  |
 | [Mater Class](https://www.masterclass.com/classes/terence-tao-teaches-mathematical-thinking?irclickid=2gsxzIRloxyNTSdx-YVKw2naUkAw4jTC1Rah0A0&utm_source=impact&utm_medium=affiliate&utm_campaign=&utm_content=1317543&utm_term=2216128&irgwc=1) | Mathematical thinking    | **To do** |
 
 #### Articles
