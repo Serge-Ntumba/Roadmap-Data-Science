@@ -21,6 +21,12 @@
 |                                        [Youtube](https://www.youtube.com/watch?v=iPdO9MwdcLE)                                         | What professional Data Scientist Actually do ?                  | **To Do** |
 | [Udacity](https://www.udacity.com/course/intro-to-data-science--ud359?source=post_page---------------------------&ref=hackernoon.com) | Intro to Data Science: What It Takes to Become a Data Scientist | **To do** |
 
+### Short Youtube Videos
+
+|                         Title                         |  Author   |                    Channel                     |
+| :---------------------------------------------------: | :-------: | :--------------------------------------------: |
+| What REALLY is Data Science? Told by a Data Scientist | Joma Oppa | [Joma Tach](https://www.youtube.com/@jomaoppa) |
+
 ## ● Mathematics for Data Science
 
 ### Basic school math
@@ -132,11 +138,11 @@
 
 ## ● Interview questions Preparation
 
-| Video | Books |                                                                              Articles                                                                              | Author | Subject |
-| :---: | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :-----: |
-|   v   |   b   |                             [17 Linear Algebra Interview Questions](https://www.mlstack.cafe/blog/linear-algebra-interview-questions)                              |   a    |    s    |
-|   v   |   b   |    [50+ Statistics Interview Questions](https://towardsdatascience.com/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271)    |   a    |    s    |
-|   v   |   b   |                               [120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)                               |   a    |    s    |
-|   v   |   b   | [14 Probability problems for acing Data Science interviews](https://towardsdatascience.com/14-probability-problems-for-acing-data-science-interviews-3735025a6425) |   a    |    s    |
-|   v   |   b   |                                                                                 a                                                                                  |   a    |    s    |
-|   v   |   b   |                                                                                 a                                                                                  |   a    |    s    |
+| Video |                                                    Books                                                     |                                                                              Articles                                                                              | Author | Subject |
+| :---: | :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :-----: |
+|   v   | [Google Interview Question [ Math & Code ] for Data Scientists](https://www.youtube.com/watch?v=ZM_4QJcPH78) |                             [17 Linear Algebra Interview Questions](https://www.mlstack.cafe/blog/linear-algebra-interview-questions)                              |   a    |    s    |
+|   v   |                                                      b                                                       |    [50+ Statistics Interview Questions](https://towardsdatascience.com/50-statistics-interview-questions-and-answers-for-data-scientists-for-2021-24f886221271)    |   a    |    s    |
+|   v   |                                                      b                                                       |                               [120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)                               |   a    |    s    |
+|   v   |                                                      b                                                       | [14 Probability problems for acing Data Science interviews](https://towardsdatascience.com/14-probability-problems-for-acing-data-science-interviews-3735025a6425) |   a    |    s    |
+|   v   |                                                      b                                                       |                                                                                 a                                                                                  |   a    |    s    |
+|   v   |                                                      b                                                       |                                                                                 a                                                                                  |   a    |    s    |
