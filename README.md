@@ -8,25 +8,25 @@
 
 ### Books
 
-|          Tittle          |      Author      |     Status      |
-| :----------------------: | :--------------: | :-------------: |
-|        Data Smart        | John W. Foreman  | **In progress** |
-| The Signal and the Noise |   Nate Silver    | **In progress** |
-|        Dataclysm         | Christian Rudder | **In progress** |
+|          Tittle          |      Author      |  Status   |
+| :----------------------: | :--------------: | :-------: |
+|        Data Smart        | John W. Foreman  | **To do** |
+| The Signal and the Noise |   Nate Silver    | **To do** |
+|        Dataclysm         | Christian Rudder | **To do** |
 
 ### Courses
 
-|                                                                  URL                                                                  | Title                 |     Status      |
-| :-----------------------------------------------------------------------------------------------------------------------------------: | --------------------- | :-------------: |
-| [Udacity](https://www.udacity.com/course/intro-to-data-science--ud359?source=post_page---------------------------&ref=hackernoon.com) | Intro to Data Science | **In Progress** |
+|                                                                  URL                                                                  | Title                 |  Status   |
+| :-----------------------------------------------------------------------------------------------------------------------------------: | --------------------- | :-------: |
+| [Udacity](https://www.udacity.com/course/intro-to-data-science--ud359?source=post_page---------------------------&ref=hackernoon.com) | Intro to Data Science | **To do** |
 
 ## Mathematics for Data Science
 
 ### Basic school math
 
-|                               Video Courses                               |                          Books                          | Articles |
-| :-----------------------------------------------------------------------: | :-----------------------------------------------------: | :------: |
-| [Видеокурсы DA VINCI](https://www.youtube.com/@da_vinci_center/playlists) | [Mather.Pro](https://mathter.pro/pesochnica/index.html) |
+|                               Video Courses                               |                          Books                          | Articles  |
+| :-----------------------------------------------------------------------: | :-----------------------------------------------------: | :-------: |
+| [Видеокурсы DA VINCI](https://www.youtube.com/@da_vinci_center/playlists) | [Mather.Pro](https://mathter.pro/pesochnica/index.html) | **To do** |
 
 ### Mathematics in DS
 
@@ -37,9 +37,9 @@
 
 #### Courses
 
-|                                                                                                                       URL                                                                                                                        | Title                    |   Status    |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------ | :---------: |
-|                                                                                         [Coursers](https://www.coursera.org/learn/datasciencemathskills)                                                                                         | Data Science Math Skills | In Progress |
+|                                                                                                                       URL                                                                                                                        | Title                    | Status |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------ | :----: |
+|                                                                                         [Coursers](https://www.coursera.org/learn/datasciencemathskills)                                                                                         | Data Science Math Skills | To do  |
 | [Mater Class](https://www.masterclass.com/classes/terence-tao-teaches-mathematical-thinking?irclickid=2gsxzIRloxyNTSdx-YVKw2naUkAw4jTC1Rah0A0&utm_source=impact&utm_medium=affiliate&utm_campaign=&utm_content=1317543&utm_term=2216128&irgwc=1) | Mathematical thinking    |
 
 #### Articles
@@ -51,64 +51,64 @@
 
 ### Books
 
-| Title                                     |       Author       |     Status      |
-| ----------------------------------------- | :----------------: | :-------------: |
-| Introduction to Linear and Matrix Algebra | Nathaniel Johnston | **In Progress** |
-| Advanced Linear and Matrix Algebra        | Nathaniel Johnston | **In Progress** |
-| Вычислительная линейная алгебра           |  Вержбицкий В.М.   | **In Progress** |
+| Title                                     |       Author       |  Status   |
+| ----------------------------------------- | :----------------: | :-------: |
+| Introduction to Linear and Matrix Algebra | Nathaniel Johnston | **To do** |
+| Advanced Linear and Matrix Algebra        | Nathaniel Johnston | **To do** |
+| Вычислительная линейная алгебра           |  Вержбицкий В.М.   | **To do** |
 
 ### Courses
 
-|                                                                                                           URL                                                                                                            | Title                                          |     Status      |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------- | :-------------: |
-|                                                                   [Youtube](https://www.youtube.com/playlist?list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6)                                                                    | Linear Algebra                                 | **In progress** |
-| [Coursera](https://www.coursera.org/specializations/algebra-elementary-to-advanced?irclickid=2gsxzIRloxyNTSdx-YVKw2naUkAw4Byy1Rah0A0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2216128&utm_content=b2c) | Algebra: Elementary to Advanced Specialization | **In Progress** |
+|                                                                                                           URL                                                                                                            | Title                                          |  Status   |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------- | :-------: |
+|                                                                   [Youtube](https://www.youtube.com/playlist?list=PLBh2i93oe2quLc5zaxD0WHzQTGrXMwAI6)                                                                    | Linear Algebra                                 | **To do** |
+| [Coursera](https://www.coursera.org/specializations/algebra-elementary-to-advanced?irclickid=2gsxzIRloxyNTSdx-YVKw2naUkAw4Byy1Rah0A0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2216128&utm_content=b2c) | Algebra: Elementary to Advanced Specialization | **To do** |
 
 ### Articles
 
-|                                               Title                                                |      Author      |     Status      |
-| :------------------------------------------------------------------------------------------------: | :--------------: | :-------------: | 
-| [An Intuitive Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/) | Better Explained | **In progress** | 
+|                                               Title                                                |      Author      |  Status   |
+| :------------------------------------------------------------------------------------------------: | :--------------: | :-------: |
+| [An Intuitive Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/) | Better Explained | **To do** |
 
 ## Statistics and Probability
 
 ### Books
 
-| Title                                                                                                                                                |     Author      |     Status      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | :-------------: |
-| Naked Statistics                                                                                                                                     | Charles Wheelan | **In Progress** |
-| [Think Stat](https://greenteapress.com/thinkstats/thinkstats.pdf)                                                                                    | Allen B. Downey | **In Progress** |
-| [Statistics in a Nutshell](https://bookshop.org/p/books/statistics-in-a-nutshell-a-desktop-quick-reference-sarah-boslaugh/7850307?ean=9781449316822) | Sarah Boslaugh  | **In Progress** |
+| Title                                                                                                                                                |     Author      |  Status   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: | :-------: |
+| Naked Statistics                                                                                                                                     | Charles Wheelan | **To do** |
+| [Think Stat](https://greenteapress.com/thinkstats/thinkstats.pdf)                                                                                    | Allen B. Downey | **To do** |
+| [Statistics in a Nutshell](https://bookshop.org/p/books/statistics-in-a-nutshell-a-desktop-quick-reference-sarah-boslaugh/7850307?ean=9781449316822) | Sarah Boslaugh  | **To do** |
 
 ### Courses
 
-|                                         URL                                         |            Title            |     Status      |
-| :---------------------------------------------------------------------------------: | :-------------------------: | :-------------: |
-|       [Khanacademy](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)       |   Statistics The average    | **In Progress** |
-|       [Khanacademy](https://www.khanacademy.org/math/statistics-probability)        | Statistics and Probability  | **In Progress** |
-| [Youtube](https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa) | Statistics For Data Science | **In Progress** |
+|                                         URL                                         |            Title            |  Status   |
+| :---------------------------------------------------------------------------------: | :-------------------------: | :-------: |
+|       [Khanacademy](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)       |   Statistics The average    | **To do** |
+|       [Khanacademy](https://www.khanacademy.org/math/statistics-probability)        | Statistics and Probability  | **To do** |
+| [Youtube](https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa) | Statistics For Data Science | **To do** |
 
 ### Articles
 
-|                                                            Title                                                            |   Author   |     Status      |
-| :-------------------------------------------------------------------------------------------------------------------------: | :--------: | :-------------: |
-|                                          Basic statistics Concept for data-science                                          |    Sakm    | **In Progress** |
-| [Probabilistic Programming](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) | Developers | **In Progress** |
+|                                                            Title                                                            |   Author   |  Status   |
+| :-------------------------------------------------------------------------------------------------------------------------: | :--------: | :-------: |
+|                                          Basic statistics Concept for data-science                                          |    Sakm    | **To do** |
+| [Probabilistic Programming](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) | Developers | **To do** |
 
 ## Calculus
 
 ### Books
 
-|                 Title                 |                       Author                        |     Status      |
-| :-----------------------------------: | :-------------------------------------------------: | :-------------: |
-| Calculus for Scientists and Engineers | Martin Brokate, Pammy Manchanda, Abul Hasan Siddiqi | **In Progress** |
-|         Математический анализ         |                   Киркинский А.С.                   | **In progress** |
+|                 Title                 |                       Author                        |  Status   |
+| :-----------------------------------: | :-------------------------------------------------: | :-------: |
+| Calculus for Scientists and Engineers | Martin Brokate, Pammy Manchanda, Abul Hasan Siddiqi | **To do** |
+|         Математический анализ         |                   Киркинский А.С.                   | **To do** |
 
 ### Courses
 
-|                                                                                                   URL                                                                                                    |          Title           |     Status      |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------: | :-------------: |
-| [Coursera](https://www.coursera.org/learn/introduction-to-calculus?irclickid=2gsxzIRloxyNTSdx-YVKw2naUkAw4GUy1Rah0A0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2216128&utm_content=b2c) | Introduction to Calculus | **In Progress** |
+|                                                                                                   URL                                                                                                    |          Title           |  Status   |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------: | :-------: |
+| [Coursera](https://www.coursera.org/learn/introduction-to-calculus?irclickid=2gsxzIRloxyNTSdx-YVKw2naUkAw4GUy1Rah0A0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2216128&utm_content=b2c) | Introduction to Calculus | **To do** |
 
 ### Articles
 
