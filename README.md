@@ -146,3 +146,12 @@
 |   v   |                                                      b                                                       | [14 Probability problems for acing Data Science interviews](https://towardsdatascience.com/14-probability-problems-for-acing-data-science-interviews-3735025a6425) |   a    |    s    |
 |   v   |                                                      b                                                       |                                                                                 a                                                                                  |   a    |    s    |
 |   v   |                                                      b                                                       |                                                                                 a                                                                                  |   a    |    s    |
+
+
+
+## ● Python
+### ● Core Python
+### ● Python Framework and Libraries
+## ● SQL and Database
+## ● Data Visualization & Analysis
+## ● Machine learning and deep learning
