@@ -147,11 +147,44 @@
 |   v   |                                                      b                                                       |                                                                                 a                                                                                  |   a    |    s    |
 |   v   |                                                      b                                                       |                                                                                 a                                                                                  |   a    |    s    |
 
-
-
 ## ● Python
+
+#### Courses
+
+| URL | Title | Status |
+| :-: | :---: | :----: |
+
+#### Books
+
+| Title | Author | Status |
+| :---: | :----: | :----: |
+
 ### ● Core Python
+
+#### Courses
+
+| URL | Title | Status |
+| :-: | :---: | :----: |
+
+#### Books
+
+| Title | Author | Status |
+| :---: | :----: | :----: |
+
 ### ● Python Framework and Libraries
+
+#### Courses
+
+| URL | Title | Status |
+| :-: | :---: | :----: |
+
+#### Books
+
+| Title | Author | Status |
+| :---: | :----: | :----: |
+
 ## ● SQL and Database
+
 ## ● Data Visualization & Analysis
+
 ## ● Machine learning and deep learning
