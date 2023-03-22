@@ -154,7 +154,7 @@
 | URL | Title | Status |
 | :-: | :---: | :----: |
 | [Zero to mastery](https://zerotomastery.io/courses/learn-python/) | Complete Python Developer in 2023 | **To do** |
-| [Youtube](https://www.youtube.com/watch?v=rfscVS0vtbw) | Learn Python - Full Course for Beginners | **To Do** |
+| [Youtube](https://www.youtube.com/watch?v=rfscVS0vtbw) | Learn Python - Full Course for Beginners | **Completed** |
 | [Udemy](https://www.udemy.com/course/complete-python-bootcamp/) | Complete Python Bootcamp: Go from zero to hero in Python 3 | **To do** |
 | [Data Comp](https://www.datacamp.com/tracks/python-programmer) | Python Programmer | **To do** |
 | [DataComp](https://www.datacamp.com/courses/intro-to-python-for-data-science) | Introduction to Python | **To do** |
@@ -168,10 +168,11 @@
 | Title | Author | Status |
 | :---: | :----: | :----: |
 | [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html#) | Brad Miller and David Ranum | **To do** |
-| [Intro to Python for CS and DS](https://drive.google.com/file/d/1rXkYFjw1iKbXCra_B4Ykm0AMRgo6v93w/view?fbclid=IwAR2lg9omGaAsG3g1ZhHQHja8_uxkZ7QddnOUSxfoceRXShU1V_bl4V63xCQ) | Paul Deitel , Harvel Deitel | **To Do** |
+| [Intro to Python for CS and DS](https://drive.google.com/file/d/1rXkYFjw1iKbXCra_B4Ykm0AMRgo6v93w/view?fbclid=IwAR2lg9omGaAsG3g1ZhHQHja8_uxkZ7QddnOUSxfoceRXShU1V_bl4V63xCQ) | Paul Deitel , Harvel Deitel | **In Progress** |
 | [Intermediate Python](https://book.pythontips.com/en/latest/index.html) | Muhammad Yasoob Ullah Khalid | **To do** |
 | Python. К вершинам мастерства | Лучано Рамальо | **To Do** |
 | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) | Al Sweigart | **To do** |
+| [Data Structures and Algorithms in Python](http://xpzhang.me/teach/DS19_Fall/book.pdf) | Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser | **To do** |
 | [Python for Data analysis](https://wesmckinney.com/book/) | Wes Mckinney | **To do** |
 
 ### ● Python Framework and Libraries for Ds
@@ -191,3 +192,9 @@
 ## ● Data Visualization & Analysis
 
 ## ● Machine learning and deep learning
+
+#### Courses
+
+| URL | Title | Status |
+| :-: | :---: | :----: |
+|[Stepik](https://stepik.org/lesson/878848/step/2?unit=883399) | ML school by REU DS club | **In Progress** |
